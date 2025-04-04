@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Immortal Timer"
 include(":app")
+include(":data")
+include(":domain")
